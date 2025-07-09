@@ -13,5 +13,5 @@ Queries: **WooCommerce.sql**
 
 Results: **WooCommerceQueryResults**
 
-Export: **export.zip**
+Export: **export.sql**
 
